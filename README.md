@@ -1,4 +1,5 @@
-# SecurityTechnique
+# SecurityTechnique, it's a brainstorming note
+# The content is beloww 
 CTF资料  
 大数据云安  
 开发安全  
