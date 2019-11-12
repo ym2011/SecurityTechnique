@@ -1,3 +1,11 @@
+3CTF网络安全职业技能大赛
+3CTF初赛题目详解（上）
+https://www.freebuf.com/fevents/218350.html
+3CTF初赛题目详解（中）
+https://www.freebuf.com/fevents/218515.html
+3CTF初赛题目详解（下）
+https://www.freebuf.com/fevents/218520.html
+
 网络与信息安全领域专赛-WriteUp： 
 https://mp.weixin.qq.com/s/1-F5smfdwLUSdit5gP2mYA
 
