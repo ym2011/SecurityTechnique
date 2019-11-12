@@ -10,3 +10,9 @@ https://mp.weixin.qq.com/s/rCqposktwlWdYjVfY4K1lA
 
 2019年四川省大学生信息安全技术大赛AWD简单分析
 https://xz.aliyun.com/t/5793
+
+训练平台搭建方法
+https://github.com/CTFd/CTFd
+
+比赛平台搭建
+https://github.com/facebook/fbctf
