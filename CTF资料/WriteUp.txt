@@ -36,11 +36,5 @@ https://mp.weixin.qq.com/s/A0T1VJmfvPcWaBD5ubrbPA
 upload writeup  
 https://github.com/LandGrey/upload-labs-writeup
 
-训练平台搭建方法  
-https://github.com/CTFd/CTFd
-
-比赛平台搭建  
-https://github.com/facebook/fbctf
-
-more  
-https://github.com/topics/ctf
+2019红帽杯 Writeup
+https://xz.aliyun.com/t/6746
