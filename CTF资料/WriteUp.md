@@ -38,3 +38,8 @@ https://github.com/LandGrey/upload-labs-writeup
 
 2019红帽杯 Writeup  
 https://xz.aliyun.com/t/6746  
+
+NJUPT CTF 天璇Writeup   
+https://xz.aliyun.com/t/6876  
+
+
