@@ -42,7 +42,9 @@ https://xz.aliyun.com/t/6746
 NJUPT CTF 天璇Writeup   
 https://xz.aliyun.com/t/6876  
 
-De1CTF2020部分writeup
+De1CTF2020writeup
+https://mp.weixin.qq.com/s/1CR0up_b5a1zw02wZNwJpg
+https://mp.weixin.qq.com/s/KKkxUb_rUEi7Pxj0Qj5Odw
 https://www.anquanke.com/post/id/204345
 
 
