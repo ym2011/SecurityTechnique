@@ -44,3 +44,9 @@ https://xz.aliyun.com/t/6876
 
 De1CTF2020部分writeup
 https://www.anquanke.com/post/id/204345
+
+
+2020-zer0ptsCTF
+2020-zer0ptsCTF-meow:https://www.anquanke.com/post/id/202056
+zer0pts CTF writeup:https://www.anquanke.com/post/id/200927
+
