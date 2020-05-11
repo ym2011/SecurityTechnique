@@ -42,11 +42,9 @@ https://xz.aliyun.com/t/6746
 NJUPT CTF 天璇Writeup   
 https://xz.aliyun.com/t/6876  
 
-De1CTF2020writeup  
-https://mp.weixin.qq.com/s/1CR0up_b5a1zw02wZNwJpg      
-https://mp.weixin.qq.com/s/KKkxUb_rUEi7Pxj0Qj5Odw    
-https://www.anquanke.com/post/id/204345     
-
+De1CTF2020writeup    
+De1CTF2020-WriteUp上(Web、Misc、Pwn) :https://mp.weixin.qq.com/s/1CR0up_b5a1zw02wZNwJpg              
+De1CTF2020-WriteUp下(Crypto、Reverse):  https://mp.weixin.qq.com/s/KKkxUb_rUEi7Pxj0Qj5Odw           
 
 2020-zer0ptsCTF   
 2020-zer0ptsCTF-meow:https://www.anquanke.com/post/id/202056      
