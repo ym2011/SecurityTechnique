@@ -1,5 +1,8 @@
 2020网鼎杯朱雀组部分Web题wp    
-https://www.anquanke.com/post/id/205679    
+https://www.anquanke.com/post/id/205679   
+
+数字中国创新大赛-虎符网络安全赛道Write up        
+https://mp.weixin.qq.com/s/ih2X8IXVFmrMVwJYuf5gng          
 
 De1CTF2020writeup    
 De1CTF2020-WriteUp上(Web、Misc、Pwn) :https://mp.weixin.qq.com/s/1CR0up_b5a1zw02wZNwJpg              
