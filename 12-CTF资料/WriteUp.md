@@ -1,3 +1,20 @@
+2020网鼎杯朱雀组部分Web题wp    
+https://www.anquanke.com/post/id/205679   
+
+数字中国创新大赛-虎符网络安全赛道Write up        
+https://mp.weixin.qq.com/s/ih2X8IXVFmrMVwJYuf5gng          
+
+De1CTF2020writeup    
+De1CTF2020-WriteUp上(Web、Misc、Pwn) :https://mp.weixin.qq.com/s/1CR0up_b5a1zw02wZNwJpg              
+De1CTF2020-WriteUp下(Crypto、Reverse):  https://mp.weixin.qq.com/s/KKkxUb_rUEi7Pxj0Qj5Odw           
+
+2020-zer0ptsCTF   
+2020-zer0ptsCTF-meow:https://www.anquanke.com/post/id/202056      
+zer0pts CTF writeup:https://www.anquanke.com/post/id/200927     
+
+NJUPT CTF 天璇Writeup   
+https://xz.aliyun.com/t/6876    
+
 3CTF网络安全职业技能大赛  
 3CTF初赛题目详解（上）  
 https://www.freebuf.com/fevents/218350.html   
@@ -38,8 +55,4 @@ https://github.com/LandGrey/upload-labs-writeup
 
 2019红帽杯 Writeup  
 https://xz.aliyun.com/t/6746  
-
-NJUPT CTF 天璇Writeup   
-https://xz.aliyun.com/t/6876  
-
 
