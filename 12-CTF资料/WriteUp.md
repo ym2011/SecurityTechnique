@@ -56,3 +56,5 @@ https://github.com/LandGrey/upload-labs-writeup
 2019红帽杯 Writeup  
 https://xz.aliyun.com/t/6746  
 
+某安全团队内部渗透打比赛（考核）    
+https://mp.weixin.qq.com/s/8ZxouUy18Qe1Ws84c3xgGg    
