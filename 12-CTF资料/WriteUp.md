@@ -1,4 +1,7 @@
-2020网鼎杯朱雀组部分Web题wp    
+天翼杯-WriteUp   
+https://mp.weixin.qq.com/s/LM5bRCieXR7s_g_mVMbjPA   
+
+2020网鼎杯朱雀组部分Web题wp      
 https://www.anquanke.com/post/id/205679   
 
 数字中国创新大赛-虎符网络安全赛道Write up        
