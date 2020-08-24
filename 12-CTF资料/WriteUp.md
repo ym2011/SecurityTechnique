@@ -1,3 +1,6 @@
+Lilac 2020 暑期pwn培训课件以及相关文件    
+https://github.com/7Hxz233/Lilac_2020_summer_pwn     
+
 天翼杯-WriteUp   
 https://mp.weixin.qq.com/s/LM5bRCieXR7s_g_mVMbjPA   
 
